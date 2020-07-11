@@ -1,9 +1,9 @@
 ## 이예지 포트폴리오
 
 ### 팀프로젝트
-
-[개발자 커뮤니티 Sysout (소스코드)](https://github.com/writerkang/Maxim_Project) <br>
-[개발자 커뮤니티 Sysout (발표시연 영상)](https://www.youtube.com/watch?v=c5x5BAcvOAE) (파트 시작: 7분17초 ~ 끝: 13분) 
+[개발자 커뮤니티 Sysout (웹사이트)] (http://sysout.online:8109/Maxim_Project/) <br>
+[개발자 커뮤니티 Sysout (소스코드)] (https://github.com/writerkang/Maxim_Project) <br>
+[개발자 커뮤니티 Sysout (발표시연 영상)] (https://www.youtube.com/watch?v=c5x5BAcvOAE) (파트 시작: 7분17초 ~ 끝: 13분) 
 
 ## 발표 일자 
 * 2020/06/15 발표
@@ -20,9 +20,9 @@
 * 웹 화면 구성 : HTML, CSS, BootStrap, JavaScript
 * 결과를 얻어오기 위한 서버 액션 : JAVA, Servlet, JSP, JSTL, EL
 * DB액션 처리 : JDBC
-* 사용기술: Java, JSP MVC model2, JSTL, EL, JDBC, Oracle 11g
-            Apache Tomcat9.0, HTML5, CSS3, jQuery, BootStrap, AJAX
-            CKEditor, JavaMail(mail.jar), JAF(activation.jar), 
+* 사용기술: Java, JSP MVC model2, JSTL, EL, JDBC, Oracle 11g <br>
+            Apache Tomcat9.0, HTML5, CSS3, jQuery, BootStrap, AJAX <br>
+            CKEditor, JavaMail(mail.jar), JAF(activation.jar),  <br>
             gson/cos/jackson library
 
 ### 사용 Tool
@@ -53,8 +53,7 @@
 
 ### 개인 프로젝트 2
 
-[무료나눔앱 화면기획서(pdf 바로보기)](file:///C:/Users/leeyj/Desktop/%ED%8F%B4%EB%8D%94/%EA%B8%B0%ED%9A%8D/%EA%B8%B0%ED%9A%8D%EC%84%9C/[%EC%9C%A1%EC%95%84%EB%93%9C%EB%A6%BC]%ED%99%94%EB%A9%B4%EA%B8%B0%ED%9A%8D%EC%84%9Cv0.3.3.pdf)
-
+[무료나눔앱 화면기획서(pdf 바로보기)
 
 <br>
 
@@ -77,33 +76,33 @@
  JDBC, 트랜잭션 처리
   
 - **Android (50시간)**<br>
-   뷰, 위젯, 이벤트 핸들링, 액티비티, 
- Handler, Storage
+   뷰, 위젯, 이벤트 핸들링, 액티비티, <br>
+ Handler, Storage<br>
  위치기반앱, 구글맵, 플레이스토어 
   
 - **Web FrontEnd (110시간)**<br>
-  HTML 5 / CSS3 / JavaScript / jQuery
- 반응형웹 / BootStrap / AJAX
+  HTML 5 / CSS3 / JavaScript / jQuery<br>
+ 반응형웹 / BootStrap / AJAX<br>
  JSON / XML / 각종 API
   
 - **JSP 기반 웹 프로그래밍 (100시간)**<br>
-  Servlet / JSP / JSTL / EL / 
- 쿠키, 세션, 파일업로드
- MVC model2 기반 웹 어플리케이션 구현
- AJAX, API 서버 설계 및 구축
- Jackson, COS 등 라이브러리 활용
- CKEditor 연동
+  Servlet / JSP / JSTL / EL / <br>
+ 쿠키, 세션, 파일업로드<br>
+ MVC model2 기반 웹 어플리케이션 구현<br>
+ AJAX, API 서버 설계 및 구축<br>
+ Jackson, COS 등 라이브러리 활용<br>
+ CKEditor 연동<br>
  Tomcat 서버
   
 - **MVC모델2 기반 웹어플리케이션 제작 (80시간)**<br>
   
 - **Spring Framework (100시간)**<br>
-  Dependency Injection, Autowire, DI Config
- AOP, Sping MVC
- request mapping, validation
- Spring-jdbc, Transaction
- ORM (MyBatis), Interceptor
- REST, Secutiry
+  Dependency Injection, Autowire, DI Config<br>
+ AOP, Sping MVC<br>
+ request mapping, validation<br>
+ Spring-jdbc, Transaction<br>
+ ORM (MyBatis), Interceptor<br>
+ REST, Secutiry<br>
   
 - **디바이스  애플리케이션 구현 - Aduino (40시간)**<br>
   임베디드 애플리케이션 구현
