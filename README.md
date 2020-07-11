@@ -1,7 +1,7 @@
 ## 이예지 포트폴리오
 
 ### 팀프로젝트
-[개발자 커뮤니티 Sysout (웹사이트)] (http://sysout.online:8109/Maxim_Project/) <br>
+
 [개발자 커뮤니티 Sysout (소스코드)] (https://github.com/writerkang/Maxim_Project) <br>
 [개발자 커뮤니티 Sysout (발표시연 영상)] (https://www.youtube.com/watch?v=c5x5BAcvOAE) (파트 시작: 7분17초 ~ 끝: 13분) 
 
@@ -34,29 +34,27 @@
 <br>
 
 
-### 개인 프로젝트 1(프론트)
+### 개인 프로젝트 1
 
-[이디야 메인홈페이지 벤치마킹 웹프로젝트]()
-
+* 프론트 UI 구현
+* [이디야 메인홈페이지 벤치마킹 웹제작(유튜브 시연영상 바로가기)]   
+(https://youtu.be/d7UjXUOFJWo)
 
 ### 개요
-* 
+* 카페 브랜드 EDIYA 메인 홈페이지를 벤치마킹하여 UI 구현
 
 ### 공헌한 내용
 * 공헌도: **100%**
 * 웹화면 구성: HTML5, CSS
-* 
-
+* 유효성 검증처리 : javaScript, jquery
 * 개발 Tool: Eclipse, Visual Studio Code
 <br>
 
 
 ### 개인 프로젝트 2
 
-[무료나눔앱 화면기획서(pdf 바로보기)
-
+* 무료나눔앱 화면기획서 작성 (첨부파일 참고)   
 <br>
-
 
 ## 코리아IT아카데미 교육이수 중
 
@@ -72,39 +70,39 @@
   기본문법, 객체지향 프로그래밍, 다형성, Collection, Exception, Inner class, Stream
   
 - **데이터베이스 구현 및 SQL - Oracle (40시간)**<br>
-  DML, DDL, DCL, 단일행/그룹함수, Join, SubQuery, View
+  DML, DDL, DCL, 단일행/그룹함수, Join, SubQuery, View   
  JDBC, 트랜잭션 처리
   
 - **Android (50시간)**<br>
-   뷰, 위젯, 이벤트 핸들링, 액티비티, <br>
- Handler, Storage<br>
+ 뷰, 위젯, 이벤트 핸들링, 액티비티,   
+ Handler, Storage   
  위치기반앱, 구글맵, 플레이스토어 
   
-- **Web FrontEnd (110시간)**<br>
-  HTML 5 / CSS3 / JavaScript / jQuery<br>
- 반응형웹 / BootStrap / AJAX<br>
- JSON / XML / 각종 API
+- **Web FrontEnd (110시간)**   
+  HTML 5 / CSS3 / JavaScript / jQuery   
+ 반응형웹 / BootStrap / AJAX   
+ JSON / XML / 각종 API   
   
 - **JSP 기반 웹 프로그래밍 (100시간)**<br>
-  Servlet / JSP / JSTL / EL / <br>
- 쿠키, 세션, 파일업로드<br>
- MVC model2 기반 웹 어플리케이션 구현<br>
- AJAX, API 서버 설계 및 구축<br>
- Jackson, COS 등 라이브러리 활용<br>
- CKEditor 연동<br>
- Tomcat 서버
+  Servlet / JSP / JSTL / EL /   
+ 쿠키, 세션, 파일업로드   
+ MVC model2 기반 웹 어플리케이션 구현   
+ AJAX, API 서버 설계 및 구축   
+ Jackson, COS 등 라이브러리 활용   
+ CKEditor 연동   
+ Tomcat 서버   
   
 - **MVC모델2 기반 웹어플리케이션 제작 (80시간)**<br>
   
 - **Spring Framework (100시간)**<br>
-  Dependency Injection, Autowire, DI Config<br>
- AOP, Sping MVC<br>
- request mapping, validation<br>
- Spring-jdbc, Transaction<br>
- ORM (MyBatis), Interceptor<br>
- REST, Secutiry<br>
+  Dependency Injection, Autowire, DI Config   
+ AOP, Sping MVC   
+ request mapping, validation   
+ Spring-jdbc, Transaction   
+ ORM (MyBatis), Interceptor   
+ REST, Secutiry   
   
 - **디바이스  애플리케이션 구현 - Aduino (40시간)**<br>
-  임베디드 애플리케이션 구현
+  임베디드 애플리케이션 구현   
   
 - **스프링 프레임워크 기반 웹어플리케이션 제작 (136시간)**<br>
