@@ -2,10 +2,11 @@
 
 ### 팀프로젝트
 
-[개발자 커뮤니티 Sysout (소스코드)] (https://github.com/writerkang/Maxim_Project) <br>
-[개발자 커뮤니티 Sysout (발표시연 영상)] (https://www.youtube.com/watch?v=c5x5BAcvOAE) (파트 시작: 7분17초 ~ 끝: 13분) 
+[개발자 커뮤니티 Sysout (소스코드)] (https://github.com/writerkang/Maxim_Project)   
+[개발자 커뮤니티 Sysout (발표시연 영상)] (https://www.youtube.com/watch?v=c5x5BAcvOAE)   
+(파트 시작: 7분17초 ~ 끝: 13분) 
 
-## 발표 일자 
+### 발표 일자 
 * 2020/06/15 발표
 
 ### 개요
@@ -55,9 +56,9 @@
 
 * 무료나눔앱 화면기획서 작성 (첨부파일 참고)   
 <br>
+<br>
 
 ## 코리아IT아카데미 교육이수 중
-
 
 ### 이수 과정명
 * Java 프레임웍기반 풀스택 양성
