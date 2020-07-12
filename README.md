@@ -1,6 +1,7 @@
 ## 이예지 포트폴리오
+<br>
 
-### 팀프로젝트
+## 팀프로젝트
 
 [개발자 커뮤니티 Sysout (소스코드)] (https://github.com/writerkang/Maxim_Project)   
 [개발자 커뮤니티 Sysout (발표시연 영상)] (https://www.youtube.com/watch?v=c5x5BAcvOAE)   
@@ -33,6 +34,8 @@
 * 협업툴: GitHub
 
 <br>
+<br>
+<br>
 
 
 ## 개인 프로젝트 1
@@ -50,6 +53,9 @@
 * 유효성 검증처리 : javaScript, jquery
 * 개발 Tool: Eclipse, Visual Studio Code
 <br>
+<br>
+<br>
+
 
 
 ## 개인 프로젝트 2
@@ -66,6 +72,9 @@
 * 기획서 작성: MS Office(PowerPoint)
 * 화면 프로토타입 연결: Adobe XD
 <br>
+<br>
+<br>
+
 
 
 ## 코리아IT아카데미 JAVA 프로그래밍 교육 이수
@@ -86,7 +95,9 @@
 * 7주차: java.util 패키지, 쓰레드   
 * 4주차: java.io 패키지, GUI 프로그래밍
 
-
+<br>
+<br>
+<br>
 
 ## 코리아IT아카데미 교육이수 중
 
