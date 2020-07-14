@@ -1,7 +1,7 @@
 ## 이예지 포트폴리오
 <br>
 
-## 팀프로젝트
+## 팀프로젝트 1
 
 [개발자 커뮤니티 Sysout (소스코드)] (https://github.com/writerkang/Maxim_Project)   
 [개발자 커뮤니티 Sysout (발표시연 영상)] (https://www.youtube.com/watch?v=c5x5BAcvOAE)   
