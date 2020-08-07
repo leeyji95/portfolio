@@ -2,8 +2,7 @@
 <br>
 
 * * *
-<span style="color:blue">## 팀프로젝트 1</span>
-
+# JSP 팀프로젝트 1
 
 [개발자 커뮤니티 Sysout (소스코드)] (https://github.com/writerkang/Maxim_Project)   
 [개발자 커뮤니티 Sysout (발표시연 영상)] (https://youtu.be/c5x5BAcvOAE?t=438)   
@@ -42,7 +41,77 @@
 * * *
 * * *
 
-## 개인 프로젝트 1
+# SPRING 팀프로젝트 2
+
+#### 소스코드 및 시연영상
+* 서점관리시스템ERP Yes25_ver2 (소스코드)   
+[.java] (https://github.com/leeyji95/Yes25_ver2/tree/master/src/main/java/com/lec/yes25/personnel)   
+[Mybatis mapper] (https://github.com/leeyji95/Yes25_ver2/blob/master/src/main/java/com/lec/yes25/mapper/PersonnelDAO.xml)   
+[ERD 테이블 및 sql 쿼리] (https://github.com/leeyji95/Yes25_ver2/blob/master/src/main/webapp/ERD/personnel/final.sql)   
+[JS 코드] (https://github.com/leeyji95/Yes25_ver2/tree/master/src/main/webapp/JS/personnel)   
+[Spring Security 관련 컨텍스트] (https://github.com/leeyji95/Yes25_ver2/blob/master/src/main/webapp/WEB-INF/spring/appServlet/security-context.xml)   
+
+* 서점관리시스템ERP Yes25_ver2 (발표시연 영상)   
+[파트 시작: 4분01초 ~ 끝: 9분27초] (https://youtu.be/DlhkyodF7ig?t=241)   
+
+#### 발표 일자 
+* 2020/08/05 발표
+
+#### 개요
+* 서점 직원 인사관리를 비롯한, 제품, 물류, 구매, 재무관리를 한눈에 보기 쉽고 빠른 접근성을 위한 서점관리 시스템 ERP이며,   
+  비동기식 SPA 로 구현한 애플리케이션입니다.
+
+
+#### 공헌한 내용
+* 참여도: **40%**
+* 팀장역할   
+  DB ERD 테이블 설계 및 취합, DDL, DML 작성,   
+  스토리보드 작성 흐름도 및 구성도 작성 및 취합,   
+  이클립스 셋팅, Git 셋팅 및 공유 / 깃 에러처리,   
+  전제적인 html, css 이용한 디자인템플릿 배포, 프로젝트 관리   
+* 맡은 파트 :  로그인/로그아웃 처리 구현, 신규사원등록, 출퇴근등록 구현, 근태현황조회 페이지 구현   
+  1) 로그인/로그아웃 : Spring Security 사용   
+  intercept-url pattern 사용하여 특정 url 접근권한 제한   
+  JSTL c 태그의 namespace sec 사용하여 권한에 따른 보기 설정   
+  로그인 성공 핸들러, 로그아웃 처리시 세션 삭제 처리   
+  PasswordEncoder 사용하여 비밀번호 암호화 처리   
+  jdbc 연동 하여 시큐리티 사용 jdbc-user-service 사용   
+  2) 사원 출퇴근 등록 Ajax 처리 구현   
+  출근 등록 클릭 시 => DB 에 출근시각 , 근무상태 INSERT   
+  오전 9시 기준 이전 		        : 정상출근   
+	오전 9시 이후 ~ 오후 12시 이전  : 지각처리   
+	오후 12시 이후 ~ 		          : 결근처리   
+  퇴근 등록 클릭 시 => DB 에 퇴근시각 , 근무상태, 총 근무시간 UPDATE   
+  결근인 경우        : 결근처리   
+  오후 6시 기준 이전 : 조퇴처리   
+	오후 6시 이후      : 정상퇴근   
+  3) 신규사원등록 : Ajax 처리 구현      
+  Js jQuery 라이브러리 이용, form 태그 Serialize 하여 Ajax로 요청처리   
+  Ajax로 request 요청 시 header 에 Security 사이트 위조 방지를 위한 csrf-token 처리   
+  4) 근태현황조회 페이지 구현   
+  출퇴근 등록 시 insert 및 update 된 테이블의 모든 컬럼 값들을 SELECT 하도록 Ajax 처리   
+  <br>
+* 웹 화면 구성 : HTML5, CSS3, BootStrap, JavaScript, jQuery, DatePicker   
+* 결과를 얻어오기 위한 서버 액션 : JAVA, Spring MVC2, Restful API, JSTL, EL   
+* DB액션 처리 : JDBC, mybatis   
+* 사용기술: HTML5, CSS3, JavaScript, jQuery, JSON, Ajax, BootStrap4.0, Java,   
+           Spring4, Spring Tool Suite(STS4), Spring Security, Maven, JSTL, EL,   
+           JDBC, Oracle 11g, Apache Tomcat9.0, DatePicker   <br>
+
+#### 사용 Tool
+* ERD 설계와 DDL 작성: AQueryTool, DBeaver   
+* Flow Chart 작성: Draw.io   
+* 개발환경: Eclips, Apache Tomcat v9.0, Visual Studio Code, Oracle 11g   
+* 협업툴: GitHub
+
+<br>
+<br>
+<br>
+
+* * *
+* * *
+
+# 개인 프로젝트(Front) 1
 
 * 프론트 UI 구현
 * [이디야 메인홈페이지 벤치마킹 웹제작(유튜브 시연영상 바로가기)]   
@@ -64,7 +133,7 @@
 * * *
 * * *
 
-## 개인 프로젝트 2
+# 개인 프로젝트(앱기획서) 2
 
 * 무료나눔앱 화면기획서 작성 (첨부파일 참고)   
 
@@ -84,7 +153,7 @@
 * * *
 * * *
 
-## 코리아IT아카데미 JAVA 프로그래밍 교육 이수
+# 코리아IT아카데미 JAVA 프로그래밍 교육 이수
 
 #### 이수 과정명
 * JAVA 프로그래밍 과정   
@@ -109,7 +178,7 @@
 * * *
 * * *
 
-## 코리아IT아카데미 Python 프로그래밍 교육 이수
+# 코리아IT아카데미 Python 프로그래밍 교육 이수
 
 #### 이수 과정명
 * Python 프로그래밍 과정   
@@ -134,7 +203,7 @@
 * * *
 * * *
 
-## 코리아IT아카데미 국비지원과정 교육이수 중
+# 코리아IT아카데미 국비지원과정 교육이수 중
 
 #### 이수 과정명
 * Java 프레임웍기반 풀스택 양성
