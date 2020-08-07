@@ -2,45 +2,6 @@
 <br>
 
 * * *
-# JSP 팀프로젝트 1
-
-[개발자 커뮤니티 Sysout (소스코드)] (https://github.com/writerkang/Maxim_Project)   
-[개발자 커뮤니티 Sysout (발표시연 영상)] (https://youtu.be/c5x5BAcvOAE?t=438)   
-(파트 시작: 7분17초 ~ 끝: 13분) 
-
-#### 발표 일자 
-* 2020/06/15 발표
-
-#### 개요
-* 개발자들을 위한 커뮤니티이며 회원제로 운영됩니다. <br>
-  게시판과 질문게시판에서 활동 시 포인트를 부여하여 회원들의 활발한 참여를 독려합니다.
-* 요약 : 개발자를 위한 커뮤니티 사이트, 추천사이트 제공, 개발자 고민, 개발자들의 꿀팁 공유
-
-#### 공헌한 내용
-* 참여도: **40%**
-* 맡은 파트 : 회원가입, 로그인/로그아웃, 마이페이지(글수정, 파일업로드)
-* 로그인 닉네임 중복체크 처리 : jQuery, Ajax, JSON, Gson lib
-* 웹 화면 구성 : HTML, CSS, BootStrap, JavaScript
-* 결과를 얻어오기 위한 서버 액션 : JAVA, Servlet, JSP, JSTL, EL
-* DB액션 처리 : JDBC
-* 사용기술: Java, JSP MVC model2, JSTL, EL, JDBC, Oracle 11g <br>
-            Apache Tomcat9.0, HTML5, CSS3, jQuery, BootStrap, AJAX <br>
-            CKEditor, JavaMail(mail.jar), JAF(activation.jar),  <br>
-            gson/cos/jackson library
-
-#### 사용 Tool
-* ERD 설계와 DDL 작성: AQueryTool, DBeaver
-* Flow Chart 작성: Draw.io
-* 개발환경: Eclips, Apache Tomcat v9.0, Visual Studio Code, Oracle 11g
-* 협업툴: GitHub
-
-<br>
-<br>
-<br>
-
-* * *
-* * *
-
 # SPRING 팀프로젝트 2
 
 #### 소스코드 및 시연영상
@@ -107,6 +68,46 @@
 <br>
 <br>
 <br>
+
+* * *
+* * *
+
+# JSP 팀프로젝트 1
+
+[개발자 커뮤니티 Sysout (소스코드)] (https://github.com/writerkang/Maxim_Project)   
+[개발자 커뮤니티 Sysout (발표시연 영상)] (https://youtu.be/c5x5BAcvOAE?t=438)   
+(파트 시작: 7분17초 ~ 끝: 13분) 
+
+#### 발표 일자 
+* 2020/06/15 발표
+
+#### 개요
+* 개발자들을 위한 커뮤니티이며 회원제로 운영됩니다. <br>
+  게시판과 질문게시판에서 활동 시 포인트를 부여하여 회원들의 활발한 참여를 독려합니다.
+* 요약 : 개발자를 위한 커뮤니티 사이트, 추천사이트 제공, 개발자 고민, 개발자들의 꿀팁 공유
+
+#### 공헌한 내용
+* 참여도: **40%**
+* 맡은 파트 : 회원가입, 로그인/로그아웃, 마이페이지(글수정, 파일업로드)
+* 로그인 닉네임 중복체크 처리 : jQuery, Ajax, JSON, Gson lib
+* 웹 화면 구성 : HTML, CSS, BootStrap, JavaScript
+* 결과를 얻어오기 위한 서버 액션 : JAVA, Servlet, JSP, JSTL, EL
+* DB액션 처리 : JDBC
+* 사용기술: Java, JSP MVC model2, JSTL, EL, JDBC, Oracle 11g <br>
+            Apache Tomcat9.0, HTML5, CSS3, jQuery, BootStrap, AJAX <br>
+            CKEditor, JavaMail(mail.jar), JAF(activation.jar),  <br>
+            gson/cos/jackson library
+
+#### 사용 Tool
+* ERD 설계와 DDL 작성: AQueryTool, DBeaver
+* Flow Chart 작성: Draw.io
+* 개발환경: Eclips, Apache Tomcat v9.0, Visual Studio Code, Oracle 11g
+* 협업툴: GitHub
+
+<br>
+<br>
+<br>
+
 
 * * *
 * * *
