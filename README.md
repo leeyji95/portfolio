@@ -74,9 +74,18 @@
 
 # JSP 팀프로젝트 1
 
-[개발자 커뮤니티 Sysout (소스코드)] (https://github.com/writerkang/Maxim_Project)   
-[개발자 커뮤니티 Sysout (발표시연 영상)] (https://youtu.be/c5x5BAcvOAE?t=438)   
-(파트 시작: 7분17초 ~ 끝: 13분) 
+#### 소스코드 및 시연영상
+* 개발자 커뮤니티 Sysout (소스코드)   
+[Controller] (https://github.com/writerkang/Maxim_Project/blob/master/src/controller/UserController.java)   
+[Command] (https://github.com/writerkang/Maxim_Project/tree/master/src/command/user)   
+[DAO] (https://github.com/writerkang/Maxim_Project/blob/master/src/beans/UserDAO.java)   
+[쿼리] (https://github.com/writerkang/Maxim_Project/blob/master/src/common/UserQuery.java)   
+[jsp] (https://github.com/writerkang/Maxim_Project/tree/master/WebContent/User)   
+[회원가입시 유효성검증 위한 JS] (https://github.com/writerkang/Maxim_Project/blob/master/WebContent/JS/join.js)   
+[ERD Table] (https://github.com/writerkang/Maxim_Project/blob/master/WebContent/ERD/create_table.sql)   
+
+* 개발자 커뮤니티 Sysout (발표시연 영상)   
+[파트 시작: 7분17초 ~ 끝: 13분] (https://youtu.be/c5x5BAcvOAE?t=438)   
 
 #### 발표 일자 
 * 2020/06/15 발표
