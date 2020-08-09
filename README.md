@@ -15,6 +15,9 @@
 * 서점관리시스템ERP Yes25_ver2 (발표시연 영상)   
 [파트 시작: 4분01초 ~ 끝: 9분27초] (https://youtu.be/DlhkyodF7ig?t=241)   
 
+* 서점관리시스템ERP Yes25_ver2 (유튜브 시연영상 바로가기)  
+(https://youtu.be/ai72VLq99no)
+
 #### 발표 일자 
 * 2020/08/05 발표
 
@@ -34,8 +37,7 @@
   1) 로그인/로그아웃 : Spring Security 사용   
   intercept-url pattern 사용하여 특정 url 접근권한 제한   
   JSTL c 태그의 namespace sec 사용하여 권한에 따른 보기 설정   
-  로그인 성공 핸들러, 로그아웃 처리시 세션 삭제 처리   
-  PasswordEncoder 사용하여 비밀번호 암호화 처리   
+  로그인 성공 핸들러, 로그아웃 처리시 세션 삭제 처리    
   jdbc 연동 하여 시큐리티 사용 jdbc-user-service 사용   
   2) 사원 출퇴근 등록 Ajax 처리 구현   
   출근 등록 클릭 시 => DB 에 출근시각 , 근무상태 INSERT   
